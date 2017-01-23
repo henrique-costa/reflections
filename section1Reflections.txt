@@ -1,0 +1,18 @@
+1-) to compare files in windows CMD use FC command
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+R: Pois eu poderei ver/investigar sobre erros passados e como eu os resolvi. Talvez eu posso descobrir NO passado o que está de errado NO PRESENTE.
+==================================================
+Q: Why do you think some version control system, like git, allow saving multiple files in one commit, while other, like Google docs, treat each file separately?
+
+R: Pois o sistema git é mais "avançado", ou melhor dizendo, os programas criados/desenvolvidos são mais avançados e requerem o uso de varios files ao mesmo tempo (eg. html + css + js).
+==================================================
+Q: How can you use the commands git log and git diff to view the history files?
+
+R: GIT LOG = é usado para loggar no historico de arquivos, o comando retorna a lista de commits.
+   GIT DIFF = é usado para comparar as mudanças entre dois commits (IDs).
+==================================================
+Q: How might using version control make you more confident to make changes that could break something?
+
+R: Me permite ter controle das alteraçoes que fiz e me facilita para achar bugs 

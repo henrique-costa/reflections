@@ -1,0 +1,4 @@
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+R: Não sei ainda mas acredito que vc deve "avisar" Git de que  vc deseja criar um repositorio para trabalhar com commits
