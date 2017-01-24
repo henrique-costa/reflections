@@ -10,4 +10,8 @@ Q: How is the staging area different from the working directory and the reposito
 R: Eh um lugar intermediario entre o repositorio e os commits. 
 
 =======================================================================
-first commit
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+R: Na staging area eu que escolho qual commit será submetido podendo assim manter um controle do que está sendo alterado.
+
+=======================================================================
