@@ -2,3 +2,6 @@ Q: When would you want to create a remote repository rather than keeping all you
 
 R: É mais "seguro" manter os arquivos na "nuvem" em caso de uma catastrofe com seus arquivos físicos/locais.
 ====================================================================================
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+R: To avoid a mess. Doing things manually makes you have more control about what is being pushed or pulled from GitHub servers. 
